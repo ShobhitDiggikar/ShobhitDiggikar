@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🎨 Blending creativity with analytics: data visualization enthusiast<br/>
 🌐 Connecting the dots between business strategy and data science<br/>
 
-## Tech Stack
+## 💻Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white)
@@ -49,4 +49,5 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhit&show_icons=true&theme=midnight-purple)
