@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ####  Fun fact:
 
-- I don't drink coffee or tea.
-- Black Clover is my favourite anime.
-- I love using Mac after switching from Windows.
+- I don't drink coffee or tea 🫖
+- Black Clover is my favourite anime  ♣️
+- I love using Mac after switching from Windows🪟 
 
 ## 💻Tech Stack
 
