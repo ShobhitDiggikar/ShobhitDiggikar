@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 🎨 Blending creativity with analytics: data visualization enthusiast<br/>
 🌐 Connecting the dots between business strategy and data science<br/>
 
+####  Fun fact:
+
+- I don't drink coffee or tea.
+- Black Clover is my favourite anime.
+- I love using Mac after switching from Windows.
+
 ## 💻Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)
