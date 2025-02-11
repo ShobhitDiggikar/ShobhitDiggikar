@@ -18,3 +18,6 @@
 <p><a href="https://www.buymeacoffee.com/Shobhit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shobhit" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitdiggikar&" alt="shobhitdiggikar" /></p>
+
+![tableau-desktop-specialist (1)](https://github.com/user-attachments/assets/27d9e409-e3f0-4611-9a8a-d388e6646e72)
+
