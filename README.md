@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit Diggikar</h1>
 <h3 align="center">A Certified Tableau Desktop Specialist in United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhitdiggikar&label=Profile%20views&color=0e75b6&style=flat" alt="shobhitdiggikar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shobhitdiggikar" target="blank"><img src="https://img.shields.io/twitter/follow/shobhitdiggikar?logo=twitter&style=for-the-badge" alt="shobhitdiggikar" /></a> </p>
 
@@ -16,6 +15,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Shobhit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shobhit" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitdiggikar&" alt="shobhitdiggikar" /></p>
+
 
 
 ![tableau-desktop-specialist (1)](https://github.com/user-attachments/assets/27d9e409-e3f0-4611-9a8a-d388e6646e72)
