@@ -20,8 +20,8 @@
 
 - I don't drink coffee or tea 🫖
 - Black Clover is my favourite anime  ♣️
-- I love using Mac after switching from Windows🪟
-- Don't stop when you are tired, stop when you are done ✅
+- I love using Mac after switching from Windows 🪟
+- The cave you fear holds the treasure you seek ⚫️
 
 
   
