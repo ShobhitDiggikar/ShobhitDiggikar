@@ -21,7 +21,7 @@
 - I don't drink coffee or tea 🫖
 - Black Clover is my favourite anime  ♣️
 - I love using Mac after switching from Windows 🪟
-- The cave you fear holds the treasure you seek ⚫️
+- Life rewards actions, not intelligence ⚫️
 
 
   
