@@ -21,7 +21,8 @@
 - I don't drink coffee or tea 🫖
 - Black Clover is my favourite anime  ♣️
 - I love using Mac after switching from Windows 🪟
-- The magic you are looking for is in the work you are avoiding 📖
+- An emotionally immature man seeks out motivation to do something one time,
+  emotionally mature man uses discipline to do a thing 1000 times 📖
 
 
   
