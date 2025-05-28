@@ -21,7 +21,7 @@
 - I don't drink coffee or tea 🫖
 - Black Clover is my favourite anime  ♣️
 - I love using Mac after switching from Windows 🪟
-- The true hell is when the person you are meets the person you could have become 🔥
+- Success stands on top of the graveyard of failure🏆
 
 
   
