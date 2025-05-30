@@ -21,7 +21,7 @@
 - I don't drink coffee or tea 🫖
 - Black Clover is my favourite anime  ♣️
 - I love using Mac after switching from Windows 🪟
-- Success stands on top of the graveyard of failure🏆
+- Winners focus on winning, losers focus on winners🏆
 
 
   
