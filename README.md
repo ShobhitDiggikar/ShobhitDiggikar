@@ -21,7 +21,7 @@
 - I don't drink coffee or tea 🫖
 - Black Clover is my favourite anime  ♣️
 - I love using Mac after switching from Windows 🪟
-- Winners focus on winning, losers focus on winners🏆
+- Success in never owned it is rented, and the rent is due every day🏆
 
 
   
