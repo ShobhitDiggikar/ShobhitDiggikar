@@ -2,7 +2,7 @@
 <h3 align="center">A Certified Tableau Desktop Specialist in United States</h3>
 
 
-🌱Currently practising SQL daily and writing down the concepts/steps used to solve the problem</br>
+📖 Currently practising SQL daily and writing down the concepts/steps used to solve the problem</br>  
 👨🏻‍💻 A data enthusiast, sharing about my journey and learning in tech<br/>
 👨🏻‍🎓 Studied M.S. Business Analytics at Arizona State University, United States<br/>
 💻 Skilled in Python, SQL, Tableau, and machine learning techniques<br/>
