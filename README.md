@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shobhit Diggikar</h1>
 <h3 align="center">A Certified Tableau Data Analyst in United States</h3>
 
-
+🎖️ Recently, I passed the Tableau Data Analyst exam ( find my certificate in the Tableau repo.)
 📖 Currently practising SQL daily and writing down the concepts/steps used to solve the problem</br>
 👨🏻‍💻 A data enthusiast, sharing about my journey and learning in tech<br/>
 👨🏻‍🎓 Studied M.S. Business Analytics at Arizona State University, United States<br/>
