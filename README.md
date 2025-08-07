@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit Diggikar</h1>
-<h3 align="center">A Certified Tableau Desktop Specialist in United States</h3>
+<h3 align="center">A Certified Tableau Data Analyst in United States</h3>
 
 
 📖 Currently practising SQL daily and writing down the concepts/steps used to solve the problem</br>
