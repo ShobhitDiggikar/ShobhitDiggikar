@@ -32,6 +32,7 @@
 
 
 
+<img width="500" height="490" alt="2025-04_Badge_SF-Certified_Tab-Data-Analyst_500x490px" src="https://github.com/user-attachments/assets/272ad01a-d36a-41cf-8757-d3ef6202e18f" />
 
 
 
